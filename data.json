@@ -1,0 +1,63 @@
+[
+  {
+    "rank": "1",
+    "city": "Tokyo",
+    "population": 37393128,
+    "country": "Japan"
+  },
+  {
+    "rank": "2",
+    "city": "Delhi",
+    "population": 30290936,
+    "country": "India"
+  },
+
+  {
+    "rank": "3",
+    "city": "Shanghai",
+    "population": 27058480,
+    "country": "China"
+  },
+  {
+    "rank": "4",
+    "city": "Sao Paulo",
+    "population": 22043028,
+    "country": "Brazil"
+  },
+  {
+    "rank": "5",
+    "city": "Mexico City",
+    "population": 21782378,
+    "country": "Mexico"
+  },
+  {
+    "rank": "6",
+    "city": "Dhaka",
+    "population": 21005860,
+    "country": "Bangladesh"
+  },
+  {
+    "rank": "7",
+    "city": "Cairo",
+    "population": 20900604,
+    "country": "Egypt"
+  },
+  {
+    "rank": "8",
+    "city": "Beijing",
+    "population": 20462610,
+    "country": "China"
+  },
+  {
+    "rank": "9",
+    "city": "Mumbai",
+    "population": 20411274,
+    "country": "India"
+  },
+  {
+    "rank": "10",
+    "city": "Osaka",
+    "population": 19165340,
+    "country": "Japan"
+  }
+]
